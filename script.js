@@ -11,4 +11,4 @@ if(a===b){
  // var result = a === b;
 
 // Display the result in an alert box
-alert("Are the numbers equal? " + result);
+// alert("Are the numbers equal? " + result);
