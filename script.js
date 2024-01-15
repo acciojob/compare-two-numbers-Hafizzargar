@@ -4,8 +4,11 @@ let b=prompt("enter 2nd number");
 a=parseFloat(a);
 b=parseFloat(b);
 if(a===b){
-	alert("true");
+	alert(true);
 }else{
-	alert("false");
+	alert(false);
 }
- 
+ // var result = a === b;
+
+// Display the result in an alert box
+alert("Are the numbers equal? " + result);
